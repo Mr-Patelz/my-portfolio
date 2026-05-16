@@ -298,7 +298,7 @@ export default function App() {
           <div className="section-container py-12 md:py-16">
             <motion.div {...fadeIn} className="max-w-4xl">
               <p className="text-base md:text-lg text-slate-600 leading-relaxed italic border-l-4 border-gcp-blue/30 pl-6">
-                "Google Cloud Data Engineer with 3.7+ years of experience building scalable ETL/ELT and data pipelines for enterprise banking clients. 
+                "Google Cloud Data Engineer with 4+ years of experience building scalable ETL/ELT and data pipelines for enterprise banking clients. 
                 Proven experience migrating enterprise applications and data pipelines from on-premise environments to GCP while improving performance and operational stability."
               </p>
             </motion.div>
@@ -403,6 +403,7 @@ export default function App() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 md:gap-6">
               {[
                 "Google Professional Cloud Architect",
+                "Google Cloud Professional Data Engineer",
                 "Google Cloud Professional DevOps Engineer",
                 "Google Cloud Associate Cloud Engineer",
                 "Google Cloud Associate Data Practitioner"
